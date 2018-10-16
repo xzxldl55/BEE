@@ -1,0 +1,1027 @@
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+System 78 (2018) 104e114
+
+Contents lists available at ScienceDirect
+
+System
+
+j o u r n a l h o m e p a g e : w w w . e l s e v i e r . c o m / l o c a t e / s y s t e m
+
+Understanding online revisions in L2 writing: A computer
+keystroke-log perspective
+
+Cuiqin Xu
+
+Nanjing University, Nanjing, China
+
+a r t i c l e i n f o
+
+a b s t r a c t
+
+Article history:
+Received 12 October 2017
+Received in revised form 9 August 2018
+Accepted 13 August 2018
+Available online 14 August 2018
+
+Keywords:
+L2 writing
+Online revisions
+Writing process
+Keystroke log
+
+Revising, as a fundamental component process of written text production, has drawn
+extensive research attention in second language (L2) writing. While most studies exam-
+ined revisions through sociolinguistic categories to understand how revisions cognitively
+load on L2 writers, further studies need to quantify the cognitive deployment of atten-
+tional resources during revising. Using Inputlog6.0, this study investigated the online re-
+visions of 57 Chinese EFL writers at the more- and less-skilled writing levels. Online
+revisions were ﬁrst divided into immediate, distant and end revisions according to their
+temporospatial locations, and then examined in terms of frequency, scope, duration, dis-
+tance and in relation to the ﬁnal text quality. Data analysis revealed that less-skilled L2
+writers revised more frequently but on smaller scopes in immediate and distant revisions,
+while more-skilled L2 writers revised more frequently and on larger scopes in end re-
+visions. The text quality correlated negatively with the frequencies of immediate and
+distant revisions, yet positively with the scopes of all three types of online revisions and
+with all four dimensions of end revisions. These ﬁndings suggest that, while writing is a
+recursive process when different component processes interact, L2 writers beneﬁt from a
+focused production process scaffolded by in-depth and extensive revising processes.
+© 2018 Published by Elsevier Ltd.
+
+1. Introduction
+
+Writing has been recognized as a complex cognitive process, during which various sub-processes, i.e., planning, trans-
+lating/formulating and revising (Hayes, 2012; Hayes & Flower, 1980; Roca de Larios, Manchon, & Murphy, 2006; Xu, 2017),
+cognitively load on the writer's working memory and consequently affect the written product emerging from these sub-
+processes. The Kellogg (1996) working memory model of writing posits that written language production draws on a sin-
+gle, limited pool of attentional resources, with different writing processes competing for attentional resources under the
+constraints of a central executive. Shall the attentional resources be exceeded, some processes of writing would be suspended
+or sacriﬁced to accommodate the immediate call for other processes (DeKeyser, 2001; Roca de Larios et al., 2006), giving rise
+to process alternation, suspension or termination during writing.
+Revising is a process when text production is suspended or terminated for the reﬂection and/or transformation of the
+produced text (Van den Bergh, Rijlaarsdam, & Breetvelt, 1994). It signals the interaction and alternation of component writing
+processes and consequently, the allocation of attentional resources during writing. Research into revising thus promises
+insights into L2 writers' management of their writing processes and how effective such process management turns out in
+
+E-mail address: cqxu@nju.edu.cn.
+
+https://doi.org/10.1016/j.system.2018.08.007
+0346-251X/© 2018 Published by Elsevier Ltd.
+
+C. Xu / System 78 (2018) 104e114
+
+105
+
+their ﬁnal texts. As “learning to revise is essential for learning to improve one's writing” (Beach, 1992, p. vii), understanding
+revising is pedagogically crucial for the creation and development of quality writing.
+A number of studies have investigated L2 online revisions in pen-and-paper writing settings through think-aloud pro-
+tocols, video-recordings or post-task interviews. These studies, by comparing L2 writing against L1 writing or focusing on L2
+writing, promote knowledge of L2 online revisions regarding whether L2 writers' attention to local issues would impede that
+to global ones and whether L2 writing proﬁciency affects what writers attend to revise (Chenoweth & Hayes, 2001; Roca de
+Larios, Marín, & Murphy, 2001; Roca de Larios, Manchon, & Marín, 2008). This sociolinguistic categorization of online re-
+visions also sheds light on how revisions of different categories cognitively load on L2 writers’ attentional resources (Dix,
+2006; Kobayashi & Rinnert, 2001). However, the connection between revision categories and their cognitive load on work-
+ing memory needs to be ﬁne-grained for precision, and some observations from case studies need to be conﬁrmed with
+enlarged samples.
+With computer rising to be the main medium for academic writing, the concepts of drafting and revising have changed in
+the word processor. As writers are now able to produce a clean text while revising at anytime and anywhere during its
+production, revising in computer keyboard settings expects to witness new features against those observed in pen-and-paper
+settings and thus calls for new research efforts (Barkaoui, 2016; Dave & Russell, 2010; Ganem-Gutierrez & Gilmore, 2018). The
+development of computer keystroke logging programs also promises ﬁne-grained and large-scaled investigation into the
+writing process (Abdel Latif, 2008; Leijten & Van Waes, 2013; Xu & Qi, 2017). Consequently, revision studies have moved onto
+the more dynamic aspects of writing, i.e., revision point and revision duration, to denote how the revising process interacts
+and intervenes with the production process (Barkaoui, 2016; Ganem-Gutierrez & Gilmore, 2018; Stevenson, Schoonen, & de
+Glopper, 2006). Along this line, the revision taxonomy should integrate revision distance and revision duration to denote how
+far an L2 writer's focal attention is moved away from the production point and how a revising event temporally loads on the
+working memory. Meanwhile, as computer logging programs help record and sort different writing activities automatically at
+high levels of accuracy, enlarged samples could be accommodated in online revision studies to better understand L2 writing
+processes.
+Of particular interest to this study was how differently more- and less-skilled L2 writers manage their online revisions in
+computer keyboard writing settings. With a ﬁne-grained revision taxonomy enabled by Inputlog6.0 (Leijten & Van Waes,
+2013), this study contributed to the literature by examining L2 writers’ online revisions in continuums of frequency, scope,
+distance and duration at the more- and less-skilled writing levels, and how these online revisions related to the ﬁnal text
+quality.
+
+2. Related studies
+
+2.1. L2 writing proﬁciency and online revisions
+
+Many studies investigated how language proﬁciency affected the revising process by comparing writing in L2 against that
+in L1 under the assumption that L2 writers would experience more frequent lack of language proﬁciency. With scope and
+frequency being the major dimensions for online revisions, writers were found to revise more frequently in L2 than in L1
+(Chenoweth & Hayes, 2001; Roca de Larios et al., 2006). Compared with L1 writing, L2 writing observed more frequent re-
+visions on small scopes, i.e., more revisions at the linguistic level than at the discourse level (Chenoweth & Hayes, 2001;
+Stevenson et al., 2006; Thorson, 2000), leading to the inhibition hypothesis that attention to low-level revisions would
+impede attention to high-level ones in L2 writing (see Stevenson et al., 2006).
+L2 writing researchers, mainly through case studies, strived to explore what speciﬁcally affected the L2 revising process,
+with L2 writing proﬁciency being repeatedly identiﬁed as an important predictor for revising behaviors. Zamel (1983),
+through the observation and interview of six advanced ESL students, found that while skilled L2 writers deferred lexical and
+grammatical revisions until the ﬁnal stages of the composition process, the unskilled L2 writer “was distracted by local
+problems from the very beginning (p. 174)” and revised words or phrases that barely affected meaning. Similarly, Broekkamp
+and van den Bergh (1996) argued that low L2 proﬁciency could induce a heavy linguistic processing load on the working
+memory, which consequently affected what, when and how frequently L2 writers chose to revise during production. By
+examining the episode frequency and duration of L2 writing processes, Ganem-Gutierrez and Gilmore (2018) also reported a
+signiﬁcant effect of L2 proﬁciency on the episode frequency of different writing processes and that more-proﬁcient students
+allocated higher percentages of their writing episodes to revising than did their less-proﬁcient peers.
+Different from previous ﬁndings on how L2 writing proﬁciency affected L2 revising strategies and consequently L2 revising
+activities, Chenoweth and Hayes (2001) found, in a study on writing ﬂuency in L1 and L2, that more proﬁcient L2 writers
+(learning an L2 for the ﬁfth/sixth semester) did not revise much as less proﬁcient L2 writers (learning the L2 for the third
+semester). The researchers reasoned that proﬁcient L2 writers produced more linguistically correct texts that virtually
+required less revisions. However, Roca de Larios et al. (2001, 2006) reported that increased L2 proﬁciency led to more re-
+visions by examining the temporal distribution of the L1 and L2 formulation processes through think-aloud protocols. Much
+of the revision effort was found to focus more on discovering better meaning-form matches than compensating for lack of
+language proﬁciency, suggesting a linguistic concern beyond grammatical correctness for the more proﬁcient L2 writers. In
+addition, Roca de Larios et al. (2008), in a study on EFL writers’ strategic allocation of writing time, found that increased L2
+proﬁciency was observed with increased time investment in the revising process and other writing processes than the
+
+106
+
+C. Xu / System 78 (2018) 104e114
+
+formulation process, further suggesting the strategic allocation of more time to online revisions among more proﬁcient L2
+writers. Thus, more studies are in need to understand the relationship between L2 proﬁciency and L2 revising processes for
+possible pedagogical interventions for L2 writers at different proﬁciency levels.
+As previous studies suggest timing could be an important dimension to distinguish online revisions for L2 writers at
+different proﬁciency levels (Roca de Larios et al., 2006; Van Waes & Schellens, 2003), more recent studies probe into the
+temporal dimension of revising through computer logging programs. With computer logging ﬁles denoting the writing
+process with great detail, revisions are further examined according to the revision point against the production point, with
+the revision point either overlapping or being away from the production point (Barkaoui, 2016; Stevenson et al., 2006;
+Thorson, 2000). Despite different terminologies in these studies, timing is an essential underlying criterion for such revi-
+sion categorization, be it before, immediately after or some time after the transcription of ideas.
+Along this line, Thorson (2000), through keystroke-logging and video-recordings, deﬁned online revision as interme-
+diate revisions and distant revisions, i.e., with or without distance of letters between the cursor of production and the
+revision point. The study reported that while L2 writing witnessed proportionately more revisions than L1 writing, L1 and
+L2 writing did not differ signiﬁcantly in the ratio of distant revisions against total revisions, showing that language pro-
+ﬁciency did not alter the interactive nature of writing. Using thinking-aloud protocols and keystroke-logging, Stevenson
+et al. (2006) examined online revisions through a multi-dimensional revision taxonomy and found that while L2
+writing generally displayed more revisions than L1 writing, there was little evidence for the inhibition of low-level re-
+visions on high-level ones in L2 writing. Barkaoui (2016), in a cross-sectional study of the effects of L2 proﬁciency, com-
+puter experience and writing task on the revising process, classiﬁed online revisions into pre-contextual and contextual
+revisions on basis of whether the revision point overlapped with the production point. The study found that while L2
+writers generally revised more on form than on content, L2 proﬁciency affected how L2 writers attended to different re-
+visions in timed writing tasks and that less-skilled L2 writers made more pre-contextual revisions at the production point.
+As the dichotomy of the revising point encodes rather limited information about how revising intervenes with production,
+the revision taxonomy in computer-aided writing should be enriched to settle the inhibition controversies over the high-
+and low-level revisions in L2 writing.
+
+2.2. Revision taxonomies
+
+2.2.1. Revision taxonomies developed from pen-and-paper writing
+Informed by revision studies in pen-and-paper settings, online revisions also investigated revision frequency and revision
+scope in computer keyboard writing (Barkaoui, 2016; Lindgren & Sullivan, 2006). Revision scope, often examined in
+conjunction with revision frequency, denotes the aspects or scales of revisions from the sociocultural perspective, i.e., form/
+meaning preserving/meaning changing revisions (New, 1999; Van Waes & Schellens, 2003), local/global/discourse revisions
+(Kobayashi and Rinnert; 2001; Liang, 2010), content/organization/form revisions (Barkaoui, 2016; Stevenson et al., 2006), or
+from the sociolinguistic perspective, i.e., revisions at lexical, phrasal and clausal levels (Barkaoui, 2016; Van Waes & Schellens,
+2003). Revision frequency, usually examined together with revision scope, denotes how often a particular aspect of writing is
+foregrounded in a writer's mind during revising and how often revising intervenes with production (Barkaoui, 2016; Dave &
+Russell, 2010).
+Behind the research efforts into revision scope and frequency is an ongoing quest to cognitively quantify on what
+scope and how often L2 writers choose to revise for a better understanding of their management of attentional resources
+during writing and how this management affects the ﬁnal text quality. However, previous ﬁndings on online revisions are
+rather mixed from the cognitive perspective. Some reported that L2 writers revised most frequently at the local level,
+with few revisions on the global level that affected the text meaning, suggesting a competition of attentional resources
+between local and global issues during revising (Barkaoui, 2016; Chenoweth & Hayes, 2001; Dave & Russell, 2010). Other
+studies, by comparing revisions in L1 and L2, found that although L2 writers revised more frequently at the linguistic
+level, there was no evidence for the inhibition of low-level revisions on higher-level ones in L2 writing and that emphases
+on local revisions did not impede the ﬂuent development of ideas in L2 writing (Lindgren & Sullivan, 2006; Spelman
+Miller, Lindgren, & Sullivan, 2008; Stevenson et al., 2006). Furthermore, although increased L2 writing proﬁciency was
+identiﬁed with more ﬂuent writing characterized by less revisions (Chenoweth & Hayes, 2001), disputes remained over
+how revision frequency was related to the ﬁnal text quality. Recent studies suggested that revision frequency had little
+bearings on L2 text quality (Spelman Miller et al., 2008; Stevenson et al., 2006), but previous studies in pen-and-paper
+settings showed that good L2 writings witnessed less revisions during its production (Chenoweth & Hayes, 2001; Whalen
+& Menard, 1995).
+One reason for the mixed ﬁndings on revision scope and revision frequency could be the discrete measurement of re-
+visions in categories instead of depicting revisions in continuums of various dimensions. On the one hand, the categorical
+measurement of revisions helps understand the revising act in the sociolinguistic framework regarding how writing is
+constructed and revised as calibrated by different linguistic units or changes at local versus global levels; on the other, it
+leaves the cognitive load of each revising event on the working memory to rough estimation that the consumption of
+attentional resources increases when revision scope climbs up categorically along the linguistic units or from local to global
+
+C. Xu / System 78 (2018) 104e114
+
+107
+
+issues. As “revisions made to long stretches of text can be considered to be revisions made at a higher level than revisions
+made to words” (Stevenson et al., 2006, p. 205), it is possible, by measuring revision scope in continuum of letters, to un-
+derstand more precisely on what scope each revision affects the text and what level of issues L2 writers attend to revise. The
+numerical measurement of revision scope in letters shall help quantify the attentional resource each revision takes up to
+better understand the revising process under the working memory model of writing.
+
+2.2.2. Revision taxonomies emerging from computer-aided writing
+With the advent of computer keyboard writing, a temporospatial dimension of online revisions, i.e., the revision point
+against the production point, has been hierarchically integrated with revision frequency and revision scope to better
+denote the revising process (Barkaoui, 2016; Lindgren & Sullivan, 2006; Stevenson et al., 2006; Thorson, 2000). As the
+point of revision signals whether the writer's focal attention being shifted, both temporally and spatially, away from the
+ongoing text production, these studies well inform L2 writing teachers and researchers of what concerns are fore-
+grounded in L2 writers during their acts of revising. Nevertheless, the dichotomy of the revision points does not quantify
+how far a revision point is away from the production point, i.e., revision distance, which is essential to understand how
+much of the produced text that an L2 writer attempts to accommodate in a revising act. With keystroke logging pro-
+grams, revision distance becomes more discernible in computer keyboard writing settings and thus promises more ﬁne-
+grained measurement of the revising process.
+In addition, previous studies showed that increased L2 proﬁciency tended to defer linguistic revisions to later stages of
+writing (Zamel, 1983) and pre-contextual revisions occurred most in early stages of the writing while contextual revisions
+happened much later (Barkaoui, 2016). Therefore, L2 writing proﬁciency could affect at what temporal stages attentional
+resources would be spared for different revising activities. As revising under the pressure of further text production could load
+quite differently on the working memory from revising after the main text production, the dichotomy of revising points
+should be expanded to distinguish distant revisions for the accommodation of such differences. To further denote how L2
+writers would prioritize their revising concerns at different stages of writing under Hayes and Flower's model of writing
+processes (1980), this study proposed end revision to denote the revising efforts following the completion of the main text.
+Thus, distant revision and end revision differed in whether further text production would follow the revising event, with
+distant revision being followed by further text production while end revision being not. Incorporating the revision taxon-
+omies from previous studies (Barkaoui, 2016; Thorson, 2000), this study thus sorted online revisions into three types, i.e.,
+immediate, distant and end revisions.
+Duration is another dynamic dimension of online revision that depicts the degree of effort investment from the temporal
+perspective. A number of studies examined revision duration through verbal protocols or video-recorded writing sessions
+(Olive, Kellogg, & Piolat, 2001; Roca de Larios et al., 2006; 2008). However, these studies focused on the temporal distribution
+of different writing processes, with only brief reference to the revising process and much less about how different revisions
+loaded on the working memory from the temporal perspective. As revision duration could better inform the ﬁeld about how
+L2 writers managed their revision efforts temporally and hence their allocation of attentional resources during revising, it
+should well be integrated into the existing revision taxonomy.
+
+2.3. Unsettled issues and the current approach
+
+To sum up, several issues need further research attention in L2 revision studies. First, the rise of computer as a
+widespread writing medium has ushered in new features in the revising process and consequently ﬁne-grained measures
+of online revisions are in need to depict the revising process in multi-dimensions and with great detail. Second, while
+previous studies contribute profoundly to the understanding of revising in L2 writing, it remains unclear how L2 writers
+at different skill levels manage online revisions and how this revision management relates to the ﬁnal text quality. Third,
+as previous studies provide collective understandings of online revisions through different revision dimensions across
+different groups of participants, it would help advance the knowledge of L2 writing if more dynamic dimensions of online
+revisions can be examined in conjunction and within the same group of participants (Wollscheid, Sjaastad, & Tømte,
+2016).
+To gain further understanding of the revising process in L2 writing, this study employed Inputlog6.0 to log and analyze
+how more- and less-skilled L2 writers differed in online revisions in computer keyboard writing settings. Online revisions
+were divided into immediate, distant and end revisions and each type was examined in continuums of frequency, scope,
+distance and duration and in how online revisions related to the ﬁnal text quality. Speciﬁcally, the study addressed the
+following questions:
+
+1. Do more- and less-skilled L2 writers differ in immediate, distant and end revisions in terms of frequency, scope, distance
+and duration?1
+2. How do online revisions relate to the ﬁnal text quality in L2 writing?
+
+1 As immediate revisions virtually happened within one or 2 s at the point of text production, only frequency and scope were considered for immediate
+revisions.
+
+108
+
+3. Methodology
+
+3.1. Participants
+
+C. Xu / System 78 (2018) 104e114
+
+This study was conducted among a pool of 106 Chinese EFL learners at a Chinese university in 2015. The participants were
+assigned into four English classes according to the alphabetical order of their Chinese names. They had 4 h of English per week
+and had the same English teachers and English teaching materials since their entry into college. Data were collected during
+their sophomore year, when they aged between 18 and 20 and had learned English in the Chinese context for 7e12 years.
+They were roughly of intermediate and upper-intermediate levels, or B1 and B2 as described in Common European Framework
+of Reference for Languages: Learning, Teaching, Assessment (Council of Europe, 2011). Six students from Tibet and four from
+Taiwan were excluded for large variation in their English education background, and four were absent from class during data
+collection. Therefore, 92 students were initially included for data screening.
+The 92 students were ranked according their ﬁnal writing scores (see Scoring of student writings). The participants for this
+study were selected from the high and low ends of the student pool. Those who ranked the top 30 formed the more-skilled
+group and those who ranked the bottom 30 formed the less-skilled group. Due to ties in writing scores around the demarca-
+tion lines, three more students were dropped to ensure the necessary gap in their writing skill levels. Eventually, there were 28
+students in the more-skilled group and 29 in the less-skilled group. Table 1 provides an overview of the two groups, showing
+that the two groups, with similar years of English learning and ages, differed signiﬁcantly in their English writing skills.
+
+3.2. Writing task
+
+Data were collected during the 5th week in the fall semester of 2015. Inputlog6.0 was installed on each computer in the
+computer lab where participants regularly attended their advanced English course. To prime the students for the study, one
+summary and one narration were completed in the computer lab using Inputlog6.0. One week before data collection, the
+students had one class reading and discussing a model argumentative essay to get familiar with the genre of argumentation.
+During the week of data collection, the teacher ﬁrst provided a 20-min mini-lecture to review the essential academic ele-
+ments for argumentation from the last class. Then, the teacher briefed the students on a recent drunk driving case, which
+resulted in two immediate deaths and one serious injury. The news was widely covered by local media, arousing much social
+concern and discussion over drunk driving. Students were then asked to develop a complete piece of argumentation on whether
+drunk drivers should be imprisoned on their ﬁrst offense. As the timed writing task was of 30 min in College English Test, Band 4
+(CET4, a nationwide college English proﬁciency test in China), students in this study were asked to ﬁnish the task by taking as
+much in-class time as necessary, roughly up to 70 min before class was over. To better track the writing process through
+keystroke logging, students were notiﬁed not to draft on paper or elsewhere other than on the computer. Independent samples
+t-tests were run on the eventual task time and text lengths of the two groups, and Table 2 presents the results.
+
+3.3. Coding scheme
+
+3.3.1. Revision types
+Integrating previous revision taxonomies (Barkaoui, 2016; Stevenson et al., 2006; Thorson, 2000), this study, on basis of
+the temporospatial location of the revising event, divided online revisions into three types, i.e., immediate revision, distant
+revision and end revision.
+Immediate revision was deﬁned as a revising event in which “the distance between the position of the cursor and that of the
+revision was zero” (Thorson, 2000, p. 160). Therefore, for immediate revision, the point of revision inscription overlapped
+with the point of text production.
+Distant revision referred to a revising event in which the point of revision inscription was distant from the point of text
+production, as shown by the cursor position being moved away from the production point for the revising event. In addition,
+there was further text production following a distant revision.
+End revision was a revising event following the completion of the main text, in which the writer reviewed and revised the
+produced text. It was operationalized as the last distant revision(s) whose termination was not followed by further production
+at the end of the text.
+
+Table 1
+Group statistics on learning experience, age and writing skill.
+More-skilled (n ¼ 28)
+Mean
+SD
+10.46
+1.84
+18.90
+.66
+11.68
+.98
+
+Years of English learning
+Age (years)
+Writing skill (text score)
+
+a Signiﬁcant at the .01 level (2-tailed).
+
+Less-skilled (n ¼ 29)
+Mean
+SD
+9.79
+2.08
+18.97
+.57
+6.38
+1.13
+
+t
+1.29
+ .23
+18.89
+
+p
+.20
+.82
+.00a
+
+Cohen's d
+.34
+.11
+5.01
+
+Table 2
+Overview of task time and text length.
+More-skilled (n ¼ 28)
+Mean
+SD
+44.12
+5.42
+217.25
+27.71
+
+Task time (minutes)
+Text length (words)
+
+a Signiﬁcant at the .01 level (2-tailed).
+
+C. Xu / System 78 (2018) 104e114
+
+109
+
+Less-skilled (n ¼ 29)
+Mean
+SD
+44.55
+4.87
+189.59
+35.31
+
+t
+ .32
+3.28
+
+p
+.75
+.00a
+
+Cohen's d
+.08
+.87
+
+3.3.2. Revision measures
+Online revisions were analyzed in terms of frequency, scope, distance and duration. The raw frequency of revisions was
+standardized into frequency of a 60-min task to correct for differences in task time: standardized frequency ¼ raw frequency/
+task time (seconds)*3600 (seconds). Scope referred to the sum of letters deleted and produced for each distant or end revision.
+For immediate revision, scope referred to the number of letters deleted, as the revision point overlapped with the production
+point in immediate revision. Distance referred to the number of letters that the cursor moved from the production point to the
+revising point and duration was operationalized as the number of seconds a revising event lasted. As immediate revision
+happened within one or 2 s at the production point, only frequency and scope were considered for immediate revision.
+Though revision scope and duration may naturally correlate with each other in that revisions of larger scopes generally
+consume more time than revisions of small scopes, there could be occasions in which some revision operations like block
+deletion could happen over seconds but affect the text on large scopes. Therefore, both scope and duration were examined
+with frequency and distance to multi-dimensionally denote a revising event.
+As Inputlog6.0 logged the writing processes at the millisecond level, a writing task of about 40 min would typically
+produce a log ﬁle of 4000e6000 operation items (see Appendix I for an excerpt). To mass process the writing data collected by
+Inputlog6.0, a computer script was developed with above deﬁnitions of online revisions to automate the analyses of fre-
+quency, scope, distance and duration of immediate, distant and end revisions in each logged writing event.
+
+3.3.3. Scoring of student writings
+Student writings were rated using a holistic rating rubric, which measured a text from three aspects, i.e., organization,
+content, and language (see Appendix II). The rubric, with a score range of 0e15, was adapted from that of CET4. Two
+experienced EFL teachers rated student writings separately. Neither rater taught any of the students before or during data
+collection and both had scored CET4 writings over 10 times, with more extensive experiences in English testing and scoring in
+classroom settings. All writings were numerically coded to remove student identities before rating and a writing would be
+returned to both raters for rescoring if the score discrepancy exceeded three points.
+The inter-rater reliability was checked using Pearson correlation coefﬁcients. The initial reliability was r(92) ¼ 0.82
+(p ¼ .00) and it reached r(92) ¼ 0.91 (p ¼ .00) after the rescoring to remove score discrepancy over three points. The mean
+score of the two raters was used as the ﬁnal score for each writing for grouping and data analyses.
+
+3.4. Statistical analysis
+
+Using SPSS19.0, the multivariate analysis of variance (MANOVA) was run on immediate, distant and end revisions across the
+more- and less-skilled groups to examine whether L2 writing skill signiﬁcantly affected online revisions in written text
+composition. The signiﬁcance level was set at 0.05 (2-tailed) and partial h2 was reported for the effect size of the group difference.
+Pearson correlation coefﬁcients were computed to examine if the ﬁnal text quality correlated with different types of online
+revisions.
+
+4. Results
+
+4.1. Writing skills and online revisions
+
+4.1.1.
+Immediate revisions
+Table 3 reports the descriptive data of immediate revisions. A one-way MANOVA was run to examine the effect of L2
+writing skill on frequency and scope of immediate revisions. The results suggest a statistically signiﬁcant effect of L2 writing
+skill on immediate revisions, (F (2, 54) ¼ 5.34, p < .01; Wilk's L ¼ 0.84, partial h2 ¼ 0.17). Follow-up univariate ANOVAs show
+that L2 writing skill had signiﬁcant effects on frequency (F (1, 55) ¼ 5.76, p ¼ .02, partial h2 ¼ 0.10) and scope (F (1, 55) ¼ 5.77,
+p ¼ .02, partial h2 ¼ 0.10) of immediate revisions. While both groups displayed frequent and small-scoped immediate re-
+visions, the more-skilled group revised less frequently but on larger scopes than did the less-skilled group.
+
+4.1.2. Distant revisions
+Table 4 summarizes the descriptive data on the four dimensions of distant revisions. The one-way MANOVA test results
+reveal a statistically signiﬁcant effect of L2 writing skill on distant revisions (F (4, 52) ¼ 5.14, p < .01; Wilk's L ¼ 0.72, partial
+
+110
+
+C. Xu / System 78 (2018) 104e114
+
+Table 3
+Descriptive statistics for immediate revisions.
+More-skilled (n ¼ 28)
+Mean
+54.61
+3.52
+
+Frequency
+Scope (letters)
+
+Table 4
+Descriptive statistics for distant revisions.
+
+Frequency
+Scope (letters)
+Distance (letters)
+Duration (seconds)
+
+More-skilled (n ¼ 28)
+Mean
+9.00
+58.42
+89.07
+79.36
+
+SD
+22.52
+1.02
+
+SD
+3.12
+53.14
+45.77
+73.94
+
+Less-skilled (n ¼ 29)
+Mean
+76.07
+2.94
+
+Less-skilled (n ¼ 29)
+Mean
+11.69
+21.45
+71.26
+42.80
+
+SD
+41.80
+.79
+
+SD
+4.86
+21.63
+51.92
+42.20
+
+h2 ¼ 0.28). Follow-up univariate ANOVAs further show that, compared with the less-skilled group, the more-skilled group
+made less frequent distant revisions (Frequency: F (1, 55) ¼ 6.13, p ¼ .02, partial h2 ¼ 0.10), but revised on signiﬁcantly larger
+scopes (Scope: F (1, 55) ¼ 11.99, p ¼ .00, partial h2 ¼ 0.18) and spent signiﬁcantly more time (Duration: F (1, 55) ¼ 5.30, p ¼ .03,
+partial h2 ¼ 0.09) on distant revisions. However, the two groups did not differ signiﬁcantly in the distance of distant revisions
+(F (1, 55) ¼ 1.88, p ¼ .18 >0 .05).
+
+4.1.3. End revisions
+Table 5 displays the descriptive data of end revisions for the two groups. A one-way MANOVA was conducted to examine
+the effect of L2 writing skill on end revisions and the results suggest the effect of L2 writing skill was statistically signiﬁcant on
+end revisions (F (4, 52) ¼ 4.28, p < .01; Wilk's L ¼ 0.75, partial h2 ¼ 0.25). Follow-up univariate ANOVAs detected signiﬁcant
+effects of L2 writing skill on all four measures of end revisions, i.e., frequency (F (1, 55) ¼ 9.23, p ¼ .00, partial h2 ¼ 0.14), scope
+(F (1, 55) ¼ 14.59, p ¼ .00, partial h2 ¼ 0.21), distance (F (1, 55) ¼ 5.44, p ¼ .02, partial h2 ¼ 0.09), and duration (F (1, 55) ¼ 16.28,
+p ¼ .00, partial h2 ¼ 0.23). Speciﬁcally, the more-skilled group initiated more frequent end revisions, revised on larger scopes,
+attended to larger parts of the produced text, and spent more time during end revisions. By contrast, the less-skilled group
+less frequently engaged in end revisions, and their end revisions were of smaller scopes and shorter duration, being conﬁned
+to smaller parts of their texts.
+
+4.2. Online revisions and the ﬁnal text quality
+
+Pearson correlation coefﬁcients were computed between the three types of online revisions and the ﬁnal text score, and
+Table 6 summarizes the results. There observed a negative correlation between the frequency of immediate revision and the
+ﬁnal text score, which approached the signiﬁcance level (r(57) ¼  0.25, p ¼ .06), and a signiﬁcant negative correlation be-
+tween the frequency of distant revision and the ﬁnal text score (r(57) ¼  0.30, p ¼ .02). However, the frequency of end
+revision correlated positively with the ﬁnal text score (r(57) ¼ 0.25, p ¼ .06). This suggests that too frequent revisions during
+
+Table 5
+Descriptive statistics for end revisions.
+
+Frequency
+Scope (letters)
+Distance (letters)
+Duration (seconds)
+
+More-skilled (n ¼ 28)
+Mean
+.79
+135.32
+719.46
+342.32
+
+SD
+.42
+134.38
+609.53
+280.56
+
+Less-skilled (n ¼ 29)
+Mean
+.41
+50.76
+380.62
+123.17
+
+SD
+.50
+94.29
+494.06
+171.68
+
+Table 6
+Correlation statistics between revisions and the ﬁnal text score (N ¼ 57).
+IR-freq IR-scope DR-freq DR-duration DR-distance DR-scope ER-freq ER-duration ER-distance ER-scope
+Score Correlation coefﬁcients  .25
+ .30*
+.32*
+.30*
+.15
+.45**
+.25
+.38**
+.24
+.37**
+Sig. (2-tailed)
+.06
+.01
+.02
+.02
+.27
+.00
+.06
+.00
+.08
+.01
+
+*: Correlation is signiﬁcant at the .05 level (2-tailed); **: Correlation is signiﬁcant at the .01 level (2-tailed).
+freq: frequency; IR: Immediate Revision; DR: Distant Revision; ER: End Revision.
+
+C. Xu / System 78 (2018) 104e114
+
+111
+
+text production (either immediate or distant revisions) were not conducive to the ﬁnal text quality, but the ﬁnal text quality
+beneﬁted from end revision practices after text production.
+As shown in Table 6, the ﬁnal text score consistently demonstrated positive correlation with revision scope, be it im-
+mediate revision (r(57) ¼ 0.32, p ¼ .01), distant revision (r(57) ¼ 0.45, p ¼ .00) or end revision (r(57) ¼ 0.37, p ¼ .01), sug-
+gesting that the ﬁnal text beneﬁted from large-scope revisions. Furthermore, the ﬁnal text score correlated positively with
+distant revision duration (r(57) ¼ 0.30, p ¼ .02) and end revision duration (r(57) ¼ 0.38, p ¼ .00), further suggesting that time
+spent on distant revisions and end revisions helped improve the ﬁnal text quality. However, there was no signiﬁcant cor-
+relation between the ﬁnal text quality and revision distance, either for distant revisions (r(57) ¼ 0.15, p ¼ .27) or end revisions
+(r(57) ¼ 0.24, p ¼ .08).
+
+5. Discussion
+
+This study set out to examine to what extent L2 writing skill would affect L2 writers’ online revisions in computer
+keyboard settings and how online revisions related to the ﬁnal text quality. While conﬁrming L2 writing proﬁciency
+signiﬁcantly affected immediate, distant and end revisions, this study yielded meaningful ﬁndings on several issues in L2
+revising: (i) the predominance of linguistic revisions; (ii) the inhibition of local issues on global issues, (iii) the strategic
+deference of language concerns and (iv) the inﬂuence of online revisions on the ﬁnal text quality.
+First, immediate revision was the predominant revision type for L2 writers both at the more- and less-skilled levels,
+lending support to previous ﬁndings that L2 writers mostly engaged in revisions of small scopes (Barkaoui, 2016; Stevenson
+et al., 2006). The high frequency and small scope of immediate revisions mark out language proﬁciency an important factor
+inﬂuencing ﬂuent text production in L2 writing (Qu, 2017). Previous studies suggest that revising functions to compensate for
+L2 writers' lack of language proﬁciency and skilled L2 writers produce more linguistically accurate texts requiring fewer
+revisions (Chenoweth & Hayes, 2001; MacArthur, Graham, & Fitzgerald, 2008). This study yet suggests possible differences in
+L2 writers’ strategic use of revising to solve language issues. It is observed in this study that many of the more-skilled writers
+later engaged in extensive end revisions to tackle language issues but few from the less-skilled group did so, suggesting the
+more- and less-skilled L2 writers adopted different revising strategies in L2 writing. While both groups encountered language
+difﬁculty in L2 writing, the more-skilled group were apt at focusing on idea development ﬁrst by deferring language concerns
+to later stages of writing through end revisions. Together with the fact that the more-skilled group produced much longer
+texts within similar amounts of task time, this study suggests language concerns at early stages of writing could lead to
+attention conﬂict between production and revision, and consequently result in frequent writing break-downs. This thus
+conﬁrms the observation in previous studies that attention to linguistic issues in L2 writing could affect ﬂuent development of
+ideas and productive use of task time (Chenoweth & Hayes, 2001; Xu & Ding, 2014).
+The second ﬁnding is that when time pressure is low in L2 writing tasks, attention to local issues does not inhibit attention
+to global issues, lending no support to the inhibition hypothesis in terms of online revisions in L2 writing. Immediate revisions
+suggest a focus on current formulation than the overall text planning or revising (Barkaoui, 2016; Stevenson et al., 2006) and
+revision distance denotes how much text L2 writers strive to accommodate in their revision attempt. In this study, the less-
+skilled group engaged more frequently both in immediate and distant revisions than the more-skilled group and displayed
+similar distance in their distant revisions as the more-skilled group. This demonstrates that less-skilled L2 writers also had
+concerns for large-scope issues in their revision attempts and attention to local issues did not impede their attention to
+distant and global issues. This is in line with Piolat, Roussey, Olive, and Amada (2004) ﬁnding that L2 writers, when given
+more time, were able to engage in different levels of revisions simply by investing more time in the task. In this study, the
+more- and less-skilled groups experienced little time pressure as shown by the fact that both groups ﬁnished the task much
+ahead of the allowed task time. Therefore, time pressure could be an important factor affecting L2 writers’ revising activities,
+and if issues of different scopes do not simultaneously drain their attentional resources, less-skilled L2 writers would also
+attend to large-scope issues during text production.
+However, the more- and less-skilled L2 writers eventually differed in the scope of distant revisions, suggesting differences
+in their competence to solve the identiﬁed writing problems. Dix (2006) suggested rereading and revising the produced text
+could be a strategy for writers to re-elaborate, rediscover and reorganize ideas for further text development when their
+writing broke down. In this study, while the frequency and distance of distant revisions suggested L2 writers at both levels
+exhibited concerns for issues distant away from the production point, the signiﬁcantly longer duration and larger scope of
+distant revisions of the more-skilled group testiﬁed to the difference in how successful their distant revision attempts were.
+As large-scope revisions can be considered revisions at higher levels (Stevenson et al., 2006), this study suggests that while
+both groups tried to revise high-level issues, less-skilled L2 writers were not as successful as their more-skilled peers. In other
+words, while demonstrating comparable attention to high-level issues in their distant revision attempts, the less-skilled L2
+writers did not display comparable competence in successfully addressing these issues through large-scope revisions. This
+ﬁnding conﬁrms L2 writers’ ability for problem detection develops faster than their problem-solving ability (Roca De Larios,
+Murphy, & Marín, 2002) and suggests less-skilled L2 writers need to learn how to revise for discovery and elaboration of ideas
+to better address the problems detected during L2 writing.
+A third ﬁnding of this study is that end revision is an important indicator of writing skill and contributes substantially to
+the improvement of the ﬁnal text quality. Unlike immediate or distant revisions which were accompanied with suspension of
+text production, end revisions were voluntary revising processes initiated by the writer to review and revise the produced
+
+112
+
+C. Xu / System 78 (2018) 104e114
+
+text under little pressure of further text production. However, even when time permitted, the less-skilled L2 writers did not
+engage much in end revision as did their more-skilled peers, demonstrating differences in motivation and strategy use be-
+tween the more- and less-skilled L2 writers. Different from previous suggestions that linguistically less competent L2 writers
+would revise more while those who were linguistically more competent would produce better texts requiring less revisions
+(Chenoweth & Hayes, 2001), this study shows end revision is a proactive investment of efforts to further improve the pro-
+duced text rather than a reactive measure to overcome writing breakdowns or to improve poorly-constructed texts.
+Therefore, engagement in end revision reﬂects L2 writers' conscious use of revising as a strategy to improve the text before
+submission. The fact that less-skilled L2 writers far less frequently engaged in end revisions lent support to the previous
+ﬁnding that less-skilled L2 writers were reluctant to reread and revise their produced texts (see Barkaoui, 2007). Under the
+limited capacity of working memory during written text production, the strategic use of end revision may help L2 writers free
+up their attentional resources from planning, translating and revising simultaneously. While writing is a process where
+planning, translating and revising constantly interact in a recursive manner (Hayes & Flower, 1980), this study suggests
+setting functionally deﬁned priority for each writing stage could avoid the risk of overloading L2 writers’ working memory
+with conceptual development and language issues at the same time.
+Last but not least, this study found the ﬁnal text quality correlated negatively with the frequency of immediate and distant
+revisions, but positively with the frequency of end revisions, the scope and duration of both distant and end revisions. While
+immediate revision and distant revision signal writing difﬁculties during drafting and thus interrupt ﬂuent text production,
+end revision demonstrates further effort investment for text improvement after drafting. As L2 writing naturally encounters
+lack of language proﬁciency (Qu, 2017), the more-skilled L2 writers lifted this affective inﬂuence by deferring language
+concerns to the end revision process. By contrast, the less-skilled L2 writers displayed frequent small-scope immediate and
+distant revisions during drafting and did not engage much in end revision even when task time permitted, suggesting a
+marked difference in their revising strategies against those of the more-skilled group. The correlations between online re-
+visions and the ﬁnal text quality thus collectively suggest that L2 writing beneﬁts from a ﬂuent and focused production
+process, scaffolded by in-depth and extensive revisions. While learning to write in L2 entails a robust drive for attainment of
+higher language proﬁciency, writing strategies should be promoted to a conscious level to help L2 writers better complete
+their writing tasks by prioritizing certain processes over others at different stages of writing (Roca de Larios et al., 2006) and
+thus optimize learning from writing.
+
+6. Conclusions and future directions
+
+As Myers (2001) suggests, encouraging student writers to reﬂect on their texts and writing processes helps them identify
+their strengths, weaknesses and learning needs in writing. This study, by examining the revising process of the more- and
+less-skilled L2 writers through an integrated taxonomy of online revisions, provided enriched understandings of the revising
+process and important pedagogical implications for L2 writing.
+Firstly, L2 writing inevitably encounters lack of language proﬁciency, and L2 writers should learn to tackle language issues
+strategically as language concerns at early stages of writing could impede conceptual development. As effective strategy use is
+central to L2 writing (De Silva & Graham, 2015) and strategy instruction can scaffold L2 learning (Plonsky, 2011), this study
+suggests L2 writers need to build up their conﬁdence to develop good writings in a foreign language and strategically defer
+their language concerns to later stages of writing to prioritize idea development.
+Secondly, when time pressure is low in L2 writing, attention to low-level issues does not impede attention to high-level
+issues in revising. However, less-skilled L2 writers need practical strategies to tackle large issues and make their revising
+attempts successful. Only by scaffolding L2 writers to revise their identiﬁed writing problems could they develop their
+problem-solving abilities. Therefore, L2 writers should be pedagogically guided to rediscover, elaborate and integrate ideas in
+their revision attempts when their writing breaks down.
+Finally, the deference of language concerns and priority for conceptual development in L2 writing make end revision
+essential for quality writing. L2 writers need to be pedagogically oriented about the practical aims of each writing stage and
+stick to these aims instead of overloading their working memory by juggling too many at a time. While learning to revise can
+be “a lengthy, complex endeavor” (Allal, Chanquoy, & Largy, 2004, p.1), end revision helps free up attentional resources to
+prioritize production and should be pedagogically promoted in L2 writing as a production and revision strategy.
+While enriching our understanding of the L2 revising process, the ﬁndings of this study need to be interpreted with
+caution. First, this study only examined online revisions quantitatively from the process perspective, and future studies could
+qualitatively probe into the reasons behind online revisions. Second, this study focused on the online revising process in L2
+writing without statistically integrating it with other component processes. As writing is a complex integration of various
+component processes, future studies can examine revising in conjunction with other processes such as planning, translating
+and pausing to better inform the L2 writing pedagogy.
+
+Acknowledgement
+
+This work was supported by the National Social Science Foundation of China [Grant Number 16BYY099] and the Youth
+Project of Humanities and Social Sciences, Ministry of Education, China [Grant Number 14YJC740095].
+
+Appendix 1. A writing log ﬁle excerpt
+
+C. Xu / System 78 (2018) 104e114
+
+113
+
+Appendix 2. Rating Rubric for CET4 Writing
+
+Score Organization
+
+Content
+
+Language
+
+0
+2
+
+5
+
+8
+
+11
+
+14
+
+No organization
+No focus; disorganized; or not enough to
+evaluate
+Attempts to focus; minimal organization;
+lacks logical sequencing and development
+Single focus; some lapses or ﬂaws in
+organization
+Single focus; logical organization but
+limited support
+Single, distinct focus; logical progression of
+ideas; well supported
+
+Little idea
+Ideas random, illogical or not
+pertinent; or not enough to evaluate
+Limited knowledge of the subject;
+ideas mixed; few transitions
+Limited knowledge of the subject;
+ideas not well supported or elaborated
+Knowledge of the subject; ideas
+appropriate and varied
+Good knowledge of the subject; details
+effective, vivid, explicit and pertinent
+
+Incorrect spellings or a few isolated words
+Incomplete or incorrect sentences; severe errors that obscure
+meaning or not enough to evaluate
+Monotonous sentence structures; little knowledge of English
+vocabulary; numerous errors that interfere with meaning
+Little variety in syntax; limited word range; some evident
+errors
+Varied sentence structure; adequate word range and
+effective word use; few errors
+Effective complex constructions; sophisticated word range
+and idiomatic word use; very few, if any, errors
+
+Note: This rubric assigns each text into one of the ﬁve levels above, and minor deviations from the description for each level may result in the loss or gain of
+one point. Thus, a perfect score is 15 and the lowest score is zero.
+
+References
+
+Abdel Latif, M. (2008). A state-of-the-art review of the real-time computer-aided study of the writing process. International Journal of English Studies, 8,
+29e50.
+Allal, L., Chanquoy, L., & Largy, P. (Eds.). (2004). Revision: Cognitive and instructional processes. New York: Kluwer.
+Barkaoui, K. (2007). Revision in second language writing: What teachers need to know. TESL Canada Journal, 25(1), 81e92.
+Barkaoui, K. (2016). What and when second-language learners revise when responding to timed writing tasks on the computer: The roles of task type,
+second language proﬁciency, and keyboarding skills. The Modern Language Journal, 100(1), 320e340.
+Beach, R. (1992). Introduction. In J. Fitzgerald (Ed.), Towards knowledge in writing: Illustrations from revision studies. New York: Springer-Verlag. i-xvii.
+Broekkamp, H., & van den Bergh, H. (1996). Attention strategies in revising a foreign language text. In G. Rijlaarsdam, H. van den Bergh, & M. Couzijn (Eds.),
+Theories, models and methodology in writing research (pp. 170e181). Amsterdam: Amsterdam University Press.
+Chenoweth, N. A., & Hayes, J. R. (2001). Fluency in writing: Generating text in L1 and L2. Written Communication, 18(1), 80e98.
+Council of Europe. (2011). Common european framework of reference for languages: Learning, teaching, assessment. Council of Europe.
+Dave, A. M., & Russell, D. R. (2010). Drafting and revision using word processing by undergraduate student writers: Changing conceptions and practices.
+Research in the Teaching of English, 44(4), 406e434.
+De Silva, R., & Graham, S. (2015). The effects of strategy instruction on writing strategy use for students of different proﬁciency levels. System, 53, 47e59.
+DeKeyser, R. M. (2001). Automaticity and automatization. In P. Robinson (Ed.), Cognition and second language instruction (pp. 125e151). Cambridge:
+Cambridge University Press.
+Dix, S. (2006). I’ll do it my way: Three writers and their revision practices. The Reading Teacher, 59(6), 566e573.
+Ganem-Gutierrez, G. A., & Gilmore, A. (2018). Tracking the real-time evolution of a writing event: Second language writers at different proﬁciency levels.
+Language Learning, 68(2), 469e506.
+Hayes, J. (2012). Modeling and remodeling writing. Written Communication, 29(3), 369e388.
+Hayes, J., & Flower, L. (1980). Identifying the organization of writing processes. In L. W. Gregg, & E. R. Steinberg (Eds.), Cognitive processes in writing (pp.
+3e30). Hillsdale, NJ: Lawrence Erlbaum Associates, Inc.
+Kellogg, R. (1996). A model of working memory in writing. In C. Levy, & S. Ransdell (Eds.), The science of writing (pp. 57e71). Mahwah, NJ: Erlbaum.
+
+114
+
+C. Xu / System 78 (2018) 104e114
+
+Kobayashi, H., & Rinnert, C. (2001). Factors relating to EFL writers' discourse level revision skills. International Journal of English Studies, 1(2), 71e101.
+Leijten, M., & Van Waes, L. (2013). Keystroke logging in writing research: Using inputlog to analyze and visualize writing processes. Written Communication,
+30(3), 358e392.
+Liang, M. Y. (2010). Using synchronous online peer response groups in EFL writing: Revision-related discourse. Language, Learning and Technology, 14(1),
+45e64.
+Lindgren, E., & Sullivan, K. P. H. (2006). Analyzing online revision. In G. Rijlaarsdam, K. P. H. Sullivan, & E. Lindgren (Eds.), Studies in writing, computer
+keystroke-logging and writing: Methods and applications (pp. 157e188). Amsterdam: Elsevier.
+MacArthur, C. A., Graham, S., & Fitzgerald, J. (2008). Handbook of writing research. New York, NY: The Guilford Press.
+Myers, J. L. (2001). Self-evaluations of the “stream of thought” in journal writing. System, 29(4), 481e488.
+New, E. (1999). Computer-aided writing in French as a foreign language: A qualitative and quantitative look at the process of revision. The Modern Language
+Journal, 83(1), 80e97.
+Olive, T., Kellogg, R. T., & Piolat, A. (2001). The triple task technique for studying the processes of writing. In T. Olive, & C. M. Levy (Eds.), Contemporary tools
+and techniques for studying writing (pp. 31e59). Dordrecht: Kluwer Academic Press.
+Piolat, A., Roussey, J. Y., Olive, T., & Amada, M. (2004). Processing time and cognitive effort in revision: Effects of error type and of working memory capacity.
+In G. Rijlaarsdam, L. Allal, L. Chanquoy, & P. Largy (Eds.), Studies in writing, vol. 13: Revision: Cognitive and instructional processes (pp. 21e38). Boston:
+Kluwer Academic Publishers.
+Plonsky, L. (2011). The effectiveness of second language strategy instruction: A meta-analysis. Language Learning, 61(4), 993e1038.
+Qu, W. (2017). For L2 writers, it is always the problem of the language. Journal of Second Language Writing, 38, 92e93.
+Roca De Larios, J., Murphy, L., & Marín, J. (2002). A critical examination of L2 writing process research. In S. Ransdell, & M. L. Barbier (Eds.), New directions for
+research in L2 writing (pp. 11e47). Dordrecht, Netherlands: Kluwer Academic.
+Roca de Larios, J., Manchon, R., & Marín, J. (2008). The foreign language writer's strategic behavior in the allocation of time to writing processes. Journal of
+Second Language Writing, 17(1), 30e47.
+Roca de Larios, J., Manchon, R., & Murphy, L. (2006). Generating text in native and foreign language writing: A temporal analysis of problem-solving
+formulation processes. The Modern Language Journal, 90(1), 100e114.
+Roca de Larios, J., Marín, J., & Murphy, L. (2001). A temporal analysis of formulation processes in L1 and L2 writing. Language Learning, 51, 497e538.
+Spelman Miller, K., Lindgren, E., & Sullivan, K. P. H. (2008). The psycholinguistic dimension in second language writing: Opportunities for research and
+pedagogy. Tesol Quarterly, 42(3), 433e454.
+Stevenson, M., Schoonen, R., & de Glopper, K. (2006). Revising in two languages: A multi-dimensional comparison of online writing revisions in L1 and FL.
+Journal of Second Language Writing, 15(3), 201e233.
+Thorson, H. (2000). Using the computer to compare foreign and native language writing processes: A statistical and case study approach. The Modern
+Language Journal, 84(2), 155e170.
+Van Waes, L., & Schellens, P. J. (2003). Writing proﬁles: The effect of the writing mode on pausing and revision patterns of experienced writers. Journal of
+Pragmatics, 35(6), 829e853.
+Van den Bergh, H., Rijlaarsdam, G., & Breetvelt, I. (1994). Revision process and text quality: An empirical study. In G. Eigler, & T. Jechle (Eds.), Writing: Current
+trends in european research (pp. 133e148). Freiburg: Hochschul Verlag.
+Whalen, K., & Menard, N. (1995). L1 and L2 writers' strategic and linguistic knowledge: A model of multiple-level discourse processing. Language Learning,
+44(3), 381e418.
+Wollscheid, S., Sjaastad, J., & Tømte, C. (2016). The impact of digital devices vs. Pen(cil) and paper on primary school students' writing skillsda research
+review. Computers & Education, 95(1), 19e35.
+Xu, C. (2017). A temporal investigation of L2 writing processda pausological perspective. Foreign Language Teaching and Research, 49(4), 583e595.
+Xu, C., & Ding, Y. (2014). An exploratory study of pauses in computer-assisted EFL writing. Language, Learning and Technology, 18(3), 80e96.
+Xu, C., & Qi, Y. (2017). Analyzing pauses in computer-assisted EFL writingda computer-keystroke-log perspective. Educational Technology & Society, 20(4),
+24e34.
+Zamel, V. (1983). The composing processes of advanced ESL students: Six case studies. Tesol Quarterly, 17(2), 165e187.
+
